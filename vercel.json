@@ -6,18 +6,6 @@
                 {
                     "key": "X-Frame-Options",
                     "value": "ALLOWALL"
-                },
-                {
-                    "key": "Cross-Origin-Opener-Policy",
-                    "value": "cross-site"
-                },
-                {
-                    "key": "Cross-Origin-Embedder-Policy",
-                    "value": "cross-site"
-                },
-                {
-                    "key": "Content-Security-Policy",
-                    "value": "frame-ancestors 'self' https://vercel.com/gibsons-projects-133fb0b2/olympic-medals/FQ6Jt2d7Lo4dRUhB3y2AxB2j7Gz7"
                 }
             ]
         }
