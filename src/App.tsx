@@ -1,10 +1,10 @@
-import OlympicMedals from "./OlympicMedals"
-
 function App() {
     return (
-        <div className="center h-screen w-screen animate-in fade-in duration-1000">
-            <OlympicMedals />
-        </div>
+        <iframe
+            width="600"
+            height="400"
+            src="https://vercel.com/gibsons-projects-133fb0b2/olympic-medals/FQ6Jt2d7Lo4dRUhB3y2AxB2j7Gz7"
+        ></iframe>
     )
 }
 
